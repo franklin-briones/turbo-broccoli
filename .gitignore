@@ -2,3 +2,4 @@
 .venv
 .csv
 /FARS2019NationalCSV
+.DS_Store
